@@ -14,5 +14,12 @@ This project analyzes performance on real and synthetic network datasets.
 3. Make sure required libraries are installed
 
 ## Requirements
-- Python
-- graphviz
+Install dependencies using:
+pip install networkx python-louvain cdlib matplotlib numpy skicit-learn
+
+## Libraries used
+- networkx
+- cdlib
+- python-louvain
+- matplotlib
+- numpy skicit-learn
