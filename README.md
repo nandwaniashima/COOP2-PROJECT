@@ -4,7 +4,7 @@ Experimental Comparison of Disjoint and Overlapping Community Detection Algorith
 This project analyzes performance on real and synthetic network datasets.
 
 ## Files Included
-- 221099139_Ashima_Research_updated
+- Research_Paper
 - coopresearch.ipynb
 - coopresearch.py
   
